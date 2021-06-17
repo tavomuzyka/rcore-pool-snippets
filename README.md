@@ -6,7 +6,6 @@
 ---
 
 locales
-- czech
 - english
 
 ---
