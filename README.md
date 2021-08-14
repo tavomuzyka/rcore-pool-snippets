@@ -1,4 +1,4 @@
-# x-radio-snippets
+# rcore-pool-snippets
 ---
 
 #### Here are all snippets made by community/rcore dev team!
